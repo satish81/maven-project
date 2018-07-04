@@ -7,5 +7,5 @@ https://www.level-up.one/devops-pdf-book
 This is my practice file
 This is example for tag
 
-this is simple changes for easy to findout
-###testing the quick build automation.
+this is simple changes for easy to findout   
+testing the quick build automation.
