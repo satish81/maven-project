@@ -1,5 +1,6 @@
     pipeline {
-        agent any
+        agent any node
+
      
         tools {
             maven 'maven-3.5.2'
